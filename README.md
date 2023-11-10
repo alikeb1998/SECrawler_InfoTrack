@@ -18,15 +18,13 @@ Swagger is included so the API can be tested on https://localhost:5025/swagger
 The frontend project is implemented using react js
 
 
-============================= SCREENSHOTs ===================
+SCREENSHOT
 
-Homepage/Dashboard
+
 
 Google Search
+![image_2023-11-10_14-11-24](https://github.com/alikeb1998/SECrawler_InfoTrack/assets/54972964/166d9f0b-363b-431b-9de7-c0f0bb64bcdb)
 
-Bing Search
 
-
-SEARCH-HISTORY
 
 
