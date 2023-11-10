@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=56773dd6_002D8a4f_002D4e0c_002Db3e0_002D9ed271c2bf8d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetAllHistoriesAsync_ShouldReturnMappedResults" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3C4D2ABB-BE01-4214-A3E4-07512AA2FE55::net7.0::SECrawler.Tests.Services.SearchResultServiceTests.GetAllHistoriesAsync_ShouldReturnMappedResults&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3C4D2ABB-BE01-4214-A3E4-07512AA2FE55::net7.0::Tests.GetEnginesAsync_ReturnsEngines&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3C4D2ABB-BE01-4214-A3E4-07512AA2FE55::net7.0::SECrawler.Tests.Services.Tests.GetRankingsAsync_ShouldReturnCorrectRanks&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3C4D2ABB-BE01-4214-A3E4-07512AA2FE55::net7.0::SECrawler.Tests.Services.Tests.GetRankingsAsync_WithInvalidEngineId_ReturnsEmptyList&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3C4D2ABB-BE01-4214-A3E4-07512AA2FE55::net7.0::SECrawler.Tests.Services.Tests.GetRankingsAsync_WithValidEngineId_ReturnsRankings&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

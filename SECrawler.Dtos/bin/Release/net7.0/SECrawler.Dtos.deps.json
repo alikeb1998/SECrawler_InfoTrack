@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SECrawler.Dtos/1.0.0": {
+        "dependencies": {
+          "SECrawler.Entities": "1.0.0"
+        },
+        "runtime": {
+          "SECrawler.Dtos.dll": {}
+        }
+      },
+      "SECrawler.Entities/1.0.0": {
+        "runtime": {
+          "SECrawler.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SECrawler.Dtos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SECrawler.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

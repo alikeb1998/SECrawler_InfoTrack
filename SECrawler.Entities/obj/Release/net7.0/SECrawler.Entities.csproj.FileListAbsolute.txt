@@ -1,0 +1,12 @@
+D:\WorkSpace\seTest\SECrawler\SECrawler.Entities\bin\Release\net7.0\SECrawler.Entities.deps.json
+D:\WorkSpace\seTest\SECrawler\SECrawler.Entities\bin\Release\net7.0\SECrawler.Entities.dll
+D:\WorkSpace\seTest\SECrawler\SECrawler.Entities\bin\Release\net7.0\SECrawler.Entities.pdb
+D:\WorkSpace\seTest\SECrawler\SECrawler.Entities\obj\Release\net7.0\SECrawler.Entities.csproj.AssemblyReference.cache
+D:\WorkSpace\seTest\SECrawler\SECrawler.Entities\obj\Release\net7.0\SECrawler.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\seTest\SECrawler\SECrawler.Entities\obj\Release\net7.0\SECrawler.Entities.AssemblyInfoInputs.cache
+D:\WorkSpace\seTest\SECrawler\SECrawler.Entities\obj\Release\net7.0\SECrawler.Entities.AssemblyInfo.cs
+D:\WorkSpace\seTest\SECrawler\SECrawler.Entities\obj\Release\net7.0\SECrawler.Entities.csproj.CoreCompileInputs.cache
+D:\WorkSpace\seTest\SECrawler\SECrawler.Entities\obj\Release\net7.0\SECrawler.Entities.dll
+D:\WorkSpace\seTest\SECrawler\SECrawler.Entities\obj\Release\net7.0\refint\SECrawler.Entities.dll
+D:\WorkSpace\seTest\SECrawler\SECrawler.Entities\obj\Release\net7.0\SECrawler.Entities.pdb
+D:\WorkSpace\seTest\SECrawler\SECrawler.Entities\obj\Release\net7.0\ref\SECrawler.Entities.dll

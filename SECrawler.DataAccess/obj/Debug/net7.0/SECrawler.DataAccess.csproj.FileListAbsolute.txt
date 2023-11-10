@@ -1,0 +1,17 @@
+D:\WorkSpace\seTest\SECrawler\SECrawler.DataAccess\bin\Debug\net7.0\SECrawler.DataAccess.deps.json
+D:\WorkSpace\seTest\SECrawler\SECrawler.DataAccess\bin\Debug\net7.0\SECrawler.DataAccess.runtimeconfig.json
+D:\WorkSpace\seTest\SECrawler\SECrawler.DataAccess\bin\Debug\net7.0\SECrawler.DataAccess.dll
+D:\WorkSpace\seTest\SECrawler\SECrawler.DataAccess\bin\Debug\net7.0\SECrawler.DataAccess.pdb
+D:\WorkSpace\seTest\SECrawler\SECrawler.DataAccess\bin\Debug\net7.0\SECrawler.Entities.dll
+D:\WorkSpace\seTest\SECrawler\SECrawler.DataAccess\bin\Debug\net7.0\SECrawler.Entities.pdb
+D:\WorkSpace\seTest\SECrawler\SECrawler.DataAccess\obj\Debug\net7.0\SECrawler.DataAccess.csproj.AssemblyReference.cache
+D:\WorkSpace\seTest\SECrawler\SECrawler.DataAccess\obj\Debug\net7.0\SECrawler.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\seTest\SECrawler\SECrawler.DataAccess\obj\Debug\net7.0\SECrawler.DataAccess.AssemblyInfoInputs.cache
+D:\WorkSpace\seTest\SECrawler\SECrawler.DataAccess\obj\Debug\net7.0\SECrawler.DataAccess.AssemblyInfo.cs
+D:\WorkSpace\seTest\SECrawler\SECrawler.DataAccess\obj\Debug\net7.0\SECrawler.DataAccess.csproj.CoreCompileInputs.cache
+D:\WorkSpace\seTest\SECrawler\SECrawler.DataAccess\obj\Debug\net7.0\SECrawler.DataAccess.csproj.CopyComplete
+D:\WorkSpace\seTest\SECrawler\SECrawler.DataAccess\obj\Debug\net7.0\SECrawler.DataAccess.dll
+D:\WorkSpace\seTest\SECrawler\SECrawler.DataAccess\obj\Debug\net7.0\refint\SECrawler.DataAccess.dll
+D:\WorkSpace\seTest\SECrawler\SECrawler.DataAccess\obj\Debug\net7.0\SECrawler.DataAccess.pdb
+D:\WorkSpace\seTest\SECrawler\SECrawler.DataAccess\obj\Debug\net7.0\SECrawler.DataAccess.genruntimeconfig.cache
+D:\WorkSpace\seTest\SECrawler\SECrawler.DataAccess\obj\Debug\net7.0\ref\SECrawler.DataAccess.dll

@@ -1,0 +1,15 @@
+D:\WorkSpace\seTest\SECrawler\SECrawler.Dtos\bin\Release\net7.0\SECrawler.Dtos.deps.json
+D:\WorkSpace\seTest\SECrawler\SECrawler.Dtos\bin\Release\net7.0\SECrawler.Dtos.dll
+D:\WorkSpace\seTest\SECrawler\SECrawler.Dtos\bin\Release\net7.0\SECrawler.Dtos.pdb
+D:\WorkSpace\seTest\SECrawler\SECrawler.Dtos\bin\Release\net7.0\SECrawler.Entities.dll
+D:\WorkSpace\seTest\SECrawler\SECrawler.Dtos\bin\Release\net7.0\SECrawler.Entities.pdb
+D:\WorkSpace\seTest\SECrawler\SECrawler.Dtos\obj\Release\net7.0\SECrawler.Dtos.csproj.AssemblyReference.cache
+D:\WorkSpace\seTest\SECrawler\SECrawler.Dtos\obj\Release\net7.0\SECrawler.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\seTest\SECrawler\SECrawler.Dtos\obj\Release\net7.0\SECrawler.Dtos.AssemblyInfoInputs.cache
+D:\WorkSpace\seTest\SECrawler\SECrawler.Dtos\obj\Release\net7.0\SECrawler.Dtos.AssemblyInfo.cs
+D:\WorkSpace\seTest\SECrawler\SECrawler.Dtos\obj\Release\net7.0\SECrawler.Dtos.csproj.CoreCompileInputs.cache
+D:\WorkSpace\seTest\SECrawler\SECrawler.Dtos\obj\Release\net7.0\SECrawler.Dtos.csproj.CopyComplete
+D:\WorkSpace\seTest\SECrawler\SECrawler.Dtos\obj\Release\net7.0\SECrawler.Dtos.dll
+D:\WorkSpace\seTest\SECrawler\SECrawler.Dtos\obj\Release\net7.0\refint\SECrawler.Dtos.dll
+D:\WorkSpace\seTest\SECrawler\SECrawler.Dtos\obj\Release\net7.0\SECrawler.Dtos.pdb
+D:\WorkSpace\seTest\SECrawler\SECrawler.Dtos\obj\Release\net7.0\ref\SECrawler.Dtos.dll

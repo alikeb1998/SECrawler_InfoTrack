@@ -1,0 +1,14 @@
+D:\WorkSpace\seTest\SECrawler\SECrawler.Core\bin\Debug\net7.0\SECrawler.Core.deps.json
+D:\WorkSpace\seTest\SECrawler\SECrawler.Core\bin\Debug\net7.0\SECrawler.Core.runtimeconfig.json
+D:\WorkSpace\seTest\SECrawler\SECrawler.Core\bin\Debug\net7.0\SECrawler.Core.dll
+D:\WorkSpace\seTest\SECrawler\SECrawler.Core\bin\Debug\net7.0\SECrawler.Core.pdb
+D:\WorkSpace\seTest\SECrawler\SECrawler.Core\obj\Debug\net7.0\SECrawler.Core.csproj.AssemblyReference.cache
+D:\WorkSpace\seTest\SECrawler\SECrawler.Core\obj\Debug\net7.0\SECrawler.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\seTest\SECrawler\SECrawler.Core\obj\Debug\net7.0\SECrawler.Core.AssemblyInfoInputs.cache
+D:\WorkSpace\seTest\SECrawler\SECrawler.Core\obj\Debug\net7.0\SECrawler.Core.AssemblyInfo.cs
+D:\WorkSpace\seTest\SECrawler\SECrawler.Core\obj\Debug\net7.0\SECrawler.Core.csproj.CoreCompileInputs.cache
+D:\WorkSpace\seTest\SECrawler\SECrawler.Core\obj\Debug\net7.0\SECrawler.Core.dll
+D:\WorkSpace\seTest\SECrawler\SECrawler.Core\obj\Debug\net7.0\refint\SECrawler.Core.dll
+D:\WorkSpace\seTest\SECrawler\SECrawler.Core\obj\Debug\net7.0\SECrawler.Core.pdb
+D:\WorkSpace\seTest\SECrawler\SECrawler.Core\obj\Debug\net7.0\SECrawler.Core.genruntimeconfig.cache
+D:\WorkSpace\seTest\SECrawler\SECrawler.Core\obj\Debug\net7.0\ref\SECrawler.Core.dll

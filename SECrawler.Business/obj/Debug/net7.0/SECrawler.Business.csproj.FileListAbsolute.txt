@@ -1,0 +1,17 @@
+D:\WorkSpace\seTest\SECrawler\SECrawler.Business\bin\Debug\net7.0\SECrawler.Business.deps.json
+D:\WorkSpace\seTest\SECrawler\SECrawler.Business\bin\Debug\net7.0\SECrawler.Business.dll
+D:\WorkSpace\seTest\SECrawler\SECrawler.Business\bin\Debug\net7.0\SECrawler.Business.pdb
+D:\WorkSpace\seTest\SECrawler\SECrawler.Business\bin\Debug\net7.0\SECrawler.Dtos.dll
+D:\WorkSpace\seTest\SECrawler\SECrawler.Business\bin\Debug\net7.0\SECrawler.Entities.dll
+D:\WorkSpace\seTest\SECrawler\SECrawler.Business\bin\Debug\net7.0\SECrawler.Dtos.pdb
+D:\WorkSpace\seTest\SECrawler\SECrawler.Business\bin\Debug\net7.0\SECrawler.Entities.pdb
+D:\WorkSpace\seTest\SECrawler\SECrawler.Business\obj\Debug\net7.0\SECrawler.Business.csproj.AssemblyReference.cache
+D:\WorkSpace\seTest\SECrawler\SECrawler.Business\obj\Debug\net7.0\SECrawler.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\seTest\SECrawler\SECrawler.Business\obj\Debug\net7.0\SECrawler.Business.AssemblyInfoInputs.cache
+D:\WorkSpace\seTest\SECrawler\SECrawler.Business\obj\Debug\net7.0\SECrawler.Business.AssemblyInfo.cs
+D:\WorkSpace\seTest\SECrawler\SECrawler.Business\obj\Debug\net7.0\SECrawler.Business.csproj.CoreCompileInputs.cache
+D:\WorkSpace\seTest\SECrawler\SECrawler.Business\obj\Debug\net7.0\SECrawler.Business.csproj.CopyComplete
+D:\WorkSpace\seTest\SECrawler\SECrawler.Business\obj\Debug\net7.0\SECrawler.Business.dll
+D:\WorkSpace\seTest\SECrawler\SECrawler.Business\obj\Debug\net7.0\refint\SECrawler.Business.dll
+D:\WorkSpace\seTest\SECrawler\SECrawler.Business\obj\Debug\net7.0\SECrawler.Business.pdb
+D:\WorkSpace\seTest\SECrawler\SECrawler.Business\obj\Debug\net7.0\ref\SECrawler.Business.dll
