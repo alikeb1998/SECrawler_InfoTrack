@@ -19,11 +19,12 @@ The frontend project is implemented using react js
 
 
 SCREENSHOT
+![image_2023-11-10_14-11-24](https://github.com/alikeb1998/SECrawler_InfoTrack/assets/54972964/5b151b8b-dc43-4f22-bf9f-250fcbf7d8a0)
 
 
 
 Google Search
-![image_2023-11-10_14-11-24](https://github.com/alikeb1998/SECrawler_InfoTrack/assets/54972964/166d9f0b-363b-431b-9de7-c0f0bb64bcdb)
+
 
 
 
